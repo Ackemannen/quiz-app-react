@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/library-app/static/css/main.5b96858d.css",
-    "main.js": "/library-app/static/js/main.64cd2da4.js",
-    "static/js/488.fd43bbab.chunk.js": "/library-app/static/js/488.fd43bbab.chunk.js",
-    "index.html": "/library-app/index.html",
-    "main.5b96858d.css.map": "/library-app/static/css/main.5b96858d.css.map",
-    "main.64cd2da4.js.map": "/library-app/static/js/main.64cd2da4.js.map",
-    "488.fd43bbab.chunk.js.map": "/library-app/static/js/488.fd43bbab.chunk.js.map"
+    "main.css": "/quiz-app-react/static/css/main.ad55d903.css",
+    "main.js": "/quiz-app-react/static/js/main.81c383b9.js",
+    "static/js/453.7a098e63.chunk.js": "/quiz-app-react/static/js/453.7a098e63.chunk.js",
+    "static/media/logo.png": "/quiz-app-react/static/media/logo.24cd6cab3e47870d15a1.png",
+    "static/media/generalKnow.png": "/quiz-app-react/static/media/generalKnow.c8263297d6221cb356ed.png",
+    "static/media/sports.png": "/quiz-app-react/static/media/sports.80c9948d3f3d265f0165.png",
+    "index.html": "/quiz-app-react/index.html",
+    "main.ad55d903.css.map": "/quiz-app-react/static/css/main.ad55d903.css.map",
+    "main.81c383b9.js.map": "/quiz-app-react/static/js/main.81c383b9.js.map",
+    "453.7a098e63.chunk.js.map": "/quiz-app-react/static/js/453.7a098e63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b96858d.css",
-    "static/js/main.64cd2da4.js"
+    "static/css/main.ad55d903.css",
+    "static/js/main.81c383b9.js"
   ]
 }
